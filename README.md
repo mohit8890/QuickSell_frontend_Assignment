@@ -15,3 +15,20 @@ This is a simple Kanban board application built using React.js. It allows users 
   - Sort tickets by priority (descending order)
   - Sort tickets by title (ascending order)
 - **Persistence:** User's view state is saved even after page reload.
+
+
+## Repository
+
+Find the source code on [GitHub](https://github.com/mohit8890/QuickSell_frontend_Assignment)].
+
+
+## Live Demo
+
+Experience the application [here](https://mohit-yadav-quicksellassignment.netlify.app/).
+
+
+## Tech Stack
+
+- *JavaScript*
+- *React JS*
+- *SCSS (CSS Preprocessor)*
